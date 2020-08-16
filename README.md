@@ -6,6 +6,8 @@ This program will automatically check uploaded plugin code for violations. Speci
 
 This program helps automate the plugin development environment during the challenge component of class.
 
+For more information on how to teach this class, see https://minecraftgamedev.github.io/teach/.
+
 ## How to use this program
 
 You will need a .jar version of the file. In a terminal, you can check if a project's code does not violate any rules in the challenge via:
